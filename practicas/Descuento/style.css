@@ -1,0 +1,41 @@
+body{
+    background-color:#1d1d1d;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    cursor: pointer;
+    font-family: sans-serif;
+    flex-direction: column;
+    color:whitesmoke;
+    font-size:2.5rem;
+}
+
+div{
+    background-color:rgb(46, 46, 46);
+    width:50%;
+    height:300px;
+    margin-top:5%;
+    text-align:center;
+    font-family: sans-serif;
+    color:whitesmoke;
+    font-size:2.5rem;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+
+
+
+.saludo{
+    background-color:orangered;
+    padding:2rem;
+    text-align:center;
+
+}
+#boton{
+    padding:1rem;
+    border-radius:0.5rem;
+    font-family: sans-serif;
+    cursor: pointer;
+}
